@@ -15,3 +15,7 @@
 ## Demo program
 demo 1
 ![Demo 1](demo/demo1.png)
+demo 2
+![Demo 2](demo/demo2.png)
+demo 3
+![Demo 3](demo/demo3.png)
