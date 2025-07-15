@@ -14,4 +14,4 @@
 
 ## Demo program
 demo 1
-![Demo 1](demo/Screenshot2025-07-15214021.png)
+![Demo 1](demo/demo1.png)
