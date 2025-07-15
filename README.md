@@ -12,3 +12,6 @@
       columns.json (contains a list of column names – for future predictions)
 3. Backend Flask and Frontend (html, css,js)
 
+## Demo program
+demo 1
+![Demo 1](demo/Screenshot2025-07-15214021.png)
